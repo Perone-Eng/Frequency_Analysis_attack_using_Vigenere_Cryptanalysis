@@ -1,0 +1,7 @@
+# O projeto usa apenas a biblioteca padrão do Python 3 (re, collections, unittest).
+# Nenhuma dependência é necessária para executar o programa ou os testes.
+
+# Opcional: gerar o executável para Windows (main.exe)
+#   pip install pyinstaller
+#   pyinstaller --onefile src/main.py
+# pyinstaller
